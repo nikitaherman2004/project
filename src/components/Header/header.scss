@@ -1,0 +1,22 @@
+@import "../../scss/default.scss";
+
+.headerContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom:1px solid #cccccc;
+
+    .header {
+        width: 70%;
+        height: 56px;
+        display: flex;
+        background: $st_white;
+        justify-content: space-between;
+
+        .headerLeft {
+            display: flex; 
+            align-items: center;
+        }
+    }
+}

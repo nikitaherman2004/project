@@ -1,0 +1,10 @@
+.switchContainer {
+    gap: 1px; 
+    display: flex; 
+    align-items: center;
+
+    .label {
+        font-size: 15px;
+        font-family: Arial; 
+    }
+}

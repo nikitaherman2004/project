@@ -1,0 +1,18 @@
+.textAreaInput {
+    width: 45%;
+    border: none;
+    resize: none;
+    font-size: 1rem;
+    padding-top: 12px;
+    font-family: Arial;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+
+.placeholder::placeholder {
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: 'Arial';
+    letter-spacing: 0.00938em;
+    color: rgb(190, 188, 188);
+  }
